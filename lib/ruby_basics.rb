@@ -6,8 +6,8 @@ def assign_variable(name)
   student = name
 end
 
-def argue
-  
+def argue(string)
+  string
 end
 
 def greeting

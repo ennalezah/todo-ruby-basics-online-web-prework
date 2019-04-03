@@ -10,12 +10,12 @@ def argue(string)
   string
 end
 
-def greeting
-
+def greeting(name, age)
+  puts "Hi! My name is #{name} an I'm #{age} years old."
 end
 
 def return_a_value
-
+  nice
 end
 
 def last_evaluated_value
